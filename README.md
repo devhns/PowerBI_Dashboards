@@ -1,2 +1,1 @@
-# HNS Power BI Dashboards
-
+# HNS Power BI Dashboard Practices
