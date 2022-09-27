@@ -6,4 +6,4 @@ kategorilendirilmesi gerçekleştirilerek BI grafiklerine dahil edilmiştir.
 The project includes a BI Dashboard about Pizza Sales Dataset (4 part - 12 different column) which published from Maven Analytics company.
 If you want to check original dataset, please visit the Maven Analytics official website. WS: https://www.mavenanalytics.io
 Left Join process was applied on 4 part of the dataset to merge by me. Created 10 different measures and 
-added 3 column (days, revenue and time ranges) to visualize.
+added 3 columns (days, revenue and time ranges) to visualize.
